@@ -15,7 +15,7 @@ namespace HelloWorld
             string name = Console.ReadLine();
             Console.WriteLine("Hello " + name + "!");
             Console.WriteLine("Hello Behzad" + "!");
-            Console.ReadKey();
+            Console.ReadKey();//Lägger till
             
             
             // Miguel AKA cogo79 was her! ;D
